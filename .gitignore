@@ -1,0 +1,13 @@
+# Raw data files - too large for GitHub
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Python
+*.pyc
+*.pyo
